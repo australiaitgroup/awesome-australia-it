@@ -14,6 +14,15 @@ Reviews of ICT courses for universities in Australia
 
 ## Rules
 
+#### Format
+
+### [Course Code] [Course Name]
+#### Summary
+#### Reviews
+##### [Name] @[Year]
+- **Level** Easy/Hard
+- **Content** [Intoduction and Reviews]
+
 #### Use Markdown
 Checkout usage of Markdown
 
